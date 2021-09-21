@@ -1,12 +1,26 @@
-# neural net introduction and demo
+# Neural net introduction and demo
+This is a set of neural network demos intended at first-semester graduate students in the physical sciences. 
 
-### Once you have a working Python environment and a Conda build environment
-then try installing the following packages,
 
-    $ conda create -n pytorch
-    S conda activate pytorch
-    $ conda install -c numpy scikit-learn scipy matplotlib jupyter
-    $ conda install pytorch torchvision -c pytorch
+## Dependencies
+I recommend using a virtualenv (but Conda is cool too). To set up a venv named `sandbox`, run
+
+```
+python -m venv sandbox
+```
+
+Activate it in bash via 
+```
+source sandbox/bin/activate
+```
+
+To install dependencies once the environment:
+
+``` 
+pip install -r requirements.txt
+```
+
+
 
 
 ### References

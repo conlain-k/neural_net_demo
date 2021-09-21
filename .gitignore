@@ -1,0 +1,6 @@
+# annoying apple files
+.DS_Store
+
+# common virtualenv names
+venv
+sandbox
