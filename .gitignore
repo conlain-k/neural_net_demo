@@ -8,4 +8,4 @@ sandbox
 # generated files
 cnn/data
 *.pth
-.ipynb_checkpoints
+**/*.ipynb_checkpoints/
