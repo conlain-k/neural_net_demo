@@ -3,5 +3,6 @@ torchvision
 numpy
 scipy
 sklearn
-jupyter
+jupyterlab
+notebook
 matplotlib
